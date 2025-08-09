@@ -1,10 +1,7 @@
 {
-  "owner": ["Zer0´", "-Citrox-", "AsukiiChu", "Blazequake"],
-  "admin": ["AnimefanPostUP", "nW_Slushy"],
-  "moderator": ["Ray_Phoenix", "´Sunny`", "BosWaldi", "༒私の頭の中の悪魔༒", "Dοvah"],
-  "supporter": ["Raver Bunny", "Eviღ", "Skyfall278", "vapezfx", "xXЯЕИОЗСЖАXx", "Shishygami"],
-  "partner": ["Zerafí", "Grampa Yoshi", "Yυυƚσ", "Fancy Snom", "DJ FØNG", "Freezie", "AskanHusky", "Artas-the-fox", "Grandcyber", "Torge101", "｛Silentgirl｝", "Alucard1144", "LexxTheFoxie"],
-  "dj": ["MaCL Event", "DJ CHI-TEKK", "Burstup","SchattenTammiku", "LoRd_Z", "DJ_YggY", "Spharx", "svenrichter2002", "Sweet_Lill_Neko", "FireP4o3n1x", "Nekoragon", "kulimuh666", "Kari Kohaku", "DJRoadster", "sleepyNeko__", "DJ-Mixmaster", "fvoigt4", "medlish", "LunaBeats", "dragonmaster73", "SchattenTammiku"],
-  "vip": ["SickCrouze", "Kreutz01", "TheIronStar", "Reji3", "WoOdY2023", "RiniChan0w0", "༒Nori༒", "l Bakka l", "ʚLeoɞ"],
-  "excluded": ["Blazequake"],
+  "admin": [],
+  "supporter": [],
+  "partner": [],
+  "worldbuilder": ["ImDanny"],
+  "excluded": [],
 }
